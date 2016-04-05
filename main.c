@@ -63,7 +63,7 @@ void fun_4(){
 void fun_5(){
 	printf("1,2");
 	for(int i = 3; i <= 10000; i += 2){
-		for(int j = 3; j <= i; j += 2){//偶数不可能为素数 
+		for(int j = 3; j <= i; j += 2){
 			if(i%j == 0){
 				if(i == j)
 					printf(",%d", i);
