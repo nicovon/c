@@ -75,6 +75,6 @@ void fun_5(){
 }
 
 void fun_6(){
-	//
+	//test
 		
 }
